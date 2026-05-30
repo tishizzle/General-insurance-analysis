@@ -16,7 +16,7 @@ This project examines insurance literacy and purchase behaviour using primary su
 * Measure insurance literacy among individuals
 * Analyse factors affecting insurance purchase decisions
 * Study the relationship between literacy and purchase behaviour
-* Identify barriers and motivations for insurance adoption
+* To identify the factors influencing insurance purchase decisions
 
 ## Statistical Techniques Used
 
